@@ -1,0 +1,14 @@
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\obj\Debug\net8.0-windows\SnakeGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\obj\Debug\net8.0-windows\SnakeGUI.AssemblyInfoInputs.cache
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\obj\Debug\net8.0-windows\SnakeGUI.AssemblyInfo.cs
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\obj\Debug\net8.0-windows\SnakeGUI.csproj.CoreCompileInputs.cache
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\bin\Debug\net8.0-windows\SnakeGUI.exe
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\bin\Debug\net8.0-windows\SnakeGUI.deps.json
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\bin\Debug\net8.0-windows\SnakeGUI.runtimeconfig.json
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\bin\Debug\net8.0-windows\SnakeGUI.dll
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\bin\Debug\net8.0-windows\SnakeGUI.pdb
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\obj\Debug\net8.0-windows\SnakeGUI.dll
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\obj\Debug\net8.0-windows\refint\SnakeGUI.dll
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\obj\Debug\net8.0-windows\SnakeGUI.pdb
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\obj\Debug\net8.0-windows\SnakeGUI.genruntimeconfig.cache
+C:\Users\Chuck\Documents\Try Projects\SnakeGUI\obj\Debug\net8.0-windows\ref\SnakeGUI.dll
